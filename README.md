@@ -234,7 +234,6 @@ fatigue-detection-system/
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- Email: your.email@example.com
 - GitHub Issues: [提交问题](https://github.com/yourusername/fatigue-detection-system/issues)
 
 ---
